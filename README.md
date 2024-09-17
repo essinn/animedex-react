@@ -12,7 +12,7 @@ Welcome to AnimeDex Project, a small project created for learning purpose. This 
 If you want to run this project in your local machine, follow these steps:
 
 1. Clone the repository `git clone https://github.com/essinn/animedex-react.git`
-2. Navigate to project directory `cd Animedex-React`
+2. Navigate to project directory `cd animedex-react`
 3. Install dependencies `npm install`
 4. Start the server `npm run dev`
 5. Open your browser and go to `http://localhost:5173`
